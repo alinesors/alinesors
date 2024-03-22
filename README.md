@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **more about software development.**
 
-- 👩🏻‍💻 All of my projects are available at [github.com/alinesors]
+- 👩🏻‍💻 All of my projects are available at [github.com/alinesors](github.com/alinesors)
 
 - 📫 U can reach me alinesors19@gmail.com
 <p>
