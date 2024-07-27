@@ -2,7 +2,7 @@
 
 <!-- Presentation -->
 <h1 align="center">Hi 👋! I'm Aline Soares</h1>
-<h3 align="center">I'm A dedicated developer 👩🏻‍💻</h3>
+<h3 align="center">I'm graduating in Computer Science 👩🏻‍💻</h3>
 
 <!-- Presentation -->
 <p>
