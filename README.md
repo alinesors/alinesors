@@ -1,5 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22CE83&height=120&section=header"/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22CE83&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 <!-- Presentation -->
 <h1 align="center">Hi 👋! I'm Aline Soares</h1>
 <h3 align="center">I'm graduating in Computer Science 👩🏻‍💻</h3>
@@ -40,9 +46,6 @@
 
 <!-- GitHub Stats -->
 <h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alinesors&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&count_private=true&hide_border=true&title_color=22CE83&icon_color=22CE83&text_color=D462FF&bg_color=0d1117" alt="Aline Sors github stats" /> 
@@ -50,6 +53,10 @@
 </div>
 
 [![alinesors's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alinesors&bg_color=0d1117&color=22CE83&line=D462FF&point=22CE83&area=true&hide_border=true)](https://github.com/alinesors/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alinesors&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <!-- Visitors Count -->
 <div align="center">
