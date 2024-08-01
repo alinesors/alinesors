@@ -29,7 +29,7 @@
 </p>
 
 <!-- Languages -->
-<h3 align="left"> 💻 Languages:
+<h3 align="left"> 💻 Languages:</h3>
 <h3 align="left">  
 <img src="https://skillicons.dev/icons?i=c,js,java,,&perline=8" />     
 <div align="left">
