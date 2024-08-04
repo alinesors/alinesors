@@ -6,16 +6,10 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  
-- 📓 I'm Bachelor's degree in Computer Science from the Federal Rural University of Agreste in Pernambuco
-  
+- 📓 I'm Bachelor's degree in Computer Science from the Federal Rural University of Agreste at Pernambuco
 - 🌱 I’m currently learning **more about software development.**
-  
 - 👩🏻‍💻 All of my projects are available at [github.com/alinesors](https://github.com/alinesors)
-  
 - 📫 U can reach me alinesors19@gmail.com
-<p>
 
 <!-- img -->
 <p align="center">
@@ -66,6 +60,5 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alineosrs}/count.svg"/></p> 
-<br>
-</div>
+<br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1160&height=120&section=footer"/>
