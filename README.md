@@ -14,17 +14,14 @@
 <p>
   
 - 📓 I'm Bachelor's degree in Computer Science from the Federal Rural University of Agreste in Pernambuco
-  
 - 🌱 I’m currently learning **more about software development.**
-
 - 👩🏻‍💻 All of my projects are available at [github.com/alinesors](https://github.com/alinesors)
-
 - 📫 U can reach me alinesors19@gmail.com
 <p>
 
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="/src/imagem.png" alt="Imagem">
 </p>
 
 <!-- Connect with me -->
