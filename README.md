@@ -50,11 +50,11 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=00008B&text_color=FFD700&bg_color=0d1117" alt="Aline Sors github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&layout=compact&hide_border=true&title_color=0000FF&text_color=FFD700&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=00008B&text_color=ffffff&bg_color=0d1117" alt="Aline Sors github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&layout=compact&hide_border=true&title_color=0000FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![alinesors's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alinesors&bg_color=0d1117&color=0000FF&line=1d1160&point=FFD700&area=true&hide_border=true)](https://github.com/alinesors/github-readme-activity-graph)
+[![alinesors's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alinesors&bg_color=0d1117&color=ffffff&line=1d1160&point=000090&area=true&hide_border=true)](https://github.com/alinesors/github-readme-activity-graph)
 
 <!-- Visitors Count -->
 <div align="center">
