@@ -6,9 +6,9 @@
 </div>
 
 <!-- Presentation -->
-- 📓 I'm Bachelor's degree in Computer Science from the Federal Rural University of Agreste at Pernambuco
+- 📓 I'm Computer Science Student at the Federal Rural University of Agreste of Pernambuco (UFAPE)
 - 🌱 I’m currently learning **more about software development.**
-- 👩🏻‍💻 All of my projects are available at [github.com/alinesors](https://github.com/alinesors)
+- 👩🏻‍💻 All of my projects are available at https://github.com/alinesors
 - 📫 U can reach me alinesors19@gmail.com
 
 <!-- img -->
@@ -16,36 +16,20 @@
   <img align="center" src="/src/imagem.png" alt="Imagem">
 </p>
 
-<!-- Connect with me -->
-## Connect with me!
-<p align="left">
-<a href="https://www.linkedin.com/in/alinesors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinesors" height="30" width="40" /></a>
-<a href="https://instagram.com/alinesors" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinesors" height="30" width="40" /></a>
-</p>
 
 ## My Stack ~
 <!-- Languages, Frameworks, Platforms and Librarie -->
-
-**- Aplicações:**
-<div align="left">  
-<img src="https://img.shields.io/badge/C-333333?style=333333?style=flat&logo=C%2B%2B&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logo=java&Color=007396"/>
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"/> 
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=py,java,js,c,spring,github,html,css,git,vscodec&perline=14" alt="skillss">
 </div>
 
-**- DevOps:**
 
-<div align="left"> 
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/>
-</div>
-
-**- Ferramentas de desenvolvimento:**
-
-<div align="left">  
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=1d1160"/>
-<img src="https://img.shields.io/badge/spring-333333?style=flat&logo=spring&logoColor=009000"/>
-</div>
+<!-- Connect with me -->
+## Connect with me!
+<a href="https://www.linkedin.com/in/alinesors/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinesors/" /></a>
+<a href="https://instagram.com/alinesors/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/alinesors/"/></a>
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
