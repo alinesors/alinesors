@@ -20,7 +20,7 @@
 ## My Stack ~
 <!-- Languages, Frameworks, Platforms and Librarie -->
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=py,java,js,c,spring,github,html,css,git,vscodec&perline=14" alt="skillss">
+<img src="https://skillicons.dev/icons?i=py,java,js,c,spring,github,html,css,git,vscode&perline=14" alt="skillss">
 </div>
 
 
