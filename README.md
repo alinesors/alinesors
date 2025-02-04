@@ -1,48 +1,58 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1160&height=120&section=header"/>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=3000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+I'm+Aline+Soares+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+# 👩🏻‍💻 Aline Fernanda Soares Silva 
 
-<!-- Presentation -->
-- 📓 I'm Computer Science Student at the Federal Rural University of Agreste of Pernambuco (UFAPE)
-- 🌱 I’m currently learning **more about software development.**
-- 👩🏻‍💻 All of my projects are available at https://github.com/alinesors
-- 📫 U can reach me alinesors19@gmail.com
+**`Computer Science Student | Cloud Computing | Cybersecurity Enthusiast & Software Development`**  
 
-<!-- img -->
-<p align="center">
-  <img align="center" src="/src/imagem.png" alt="Imagem">
+I'm a Computer Science student at the **Federal Rural University of Agreste of Pernambuco (UFAPE)**. My academic and professional journey is driven by a constant pursuit of new knowledge and the exploration of innovative technologies, with a particular focus on **Cloud Computing, Cybersecurity, and Software Development**.  
+
+All of my projects are available at **[GitHub](https://github.com/alinesors)**.  
+
+📫 You can reach me at **alinesors19@gmail.com**.  
+
+---
+
+### ☁️ My Skills  
+
+#### 💻 Programming Languages  
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<br/><br/>
+
+#### 🛠️ Tools  
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+<br/><br/>
+
+#### 🔗 Version Control  
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<br/><br/>
+
+#### 📊 Data Analysis  
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+
+<br/><br/>
+
+#### ☁️ Cloud Computing  
+<img align="left" alt="Google Cloud" title="Google Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+
+<br/><br/>
+
+#### 🔒 Cybersecurity  
+✅ Best practices for **cloud security**  
+✅ Foundations of Cybersecurity and Manage Security Risks
+
+---
+
+### 📈 GitHub Stats  
+
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+
+  <img align="left" alt="Most Used Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
 </p>
-
-
-## My Stack ~
-<!-- Languages, Frameworks, Platforms and Librarie -->
-<div align="center">  
-<img src="https://skillicons.dev/icons?i=py,java,js,c,spring,github,html,css,git,vscode&perline=14" alt="skillss">
-</div>
-
-
-<!-- Connect with me -->
-## Connect with me!
-<a href="https://www.linkedin.com/in/alinesors/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinesors/" /></a>
-<a href="https://instagram.com/alinesors/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/alinesors/"/></a>
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=00008B&text_color=ffffff&bg_color=0d1117" alt="Aline Sors github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&layout=compact&hide_border=true&title_color=0000FF&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-[![alinesors's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alinesors&bg_color=0d1117&color=ffffff&line=1d1160&point=000090&area=true&hide_border=true)](https://github.com/alinesors/github-readme-activity-graph)
-
-<!-- Visitors Count -->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alineosrs}/count.svg"/></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d1160&height=120&section=footer"/>
