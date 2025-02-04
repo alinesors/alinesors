@@ -45,7 +45,7 @@ All of my projects are available at **[GitHub](https://github.com/alinesors)**.
 
 #### 🔒 Cybersecurity  
 ✅ Best practices for **cloud security**  
-✅ Foundations of Cybersecurity and Manage Security Risks
+✅ **Foundations of Cybersecurity** and **Manage Security Risks**
 
 ---
 
