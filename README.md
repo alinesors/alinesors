@@ -25,8 +25,7 @@ All of my projects are available at **[GitHub](https://github.com/alinesors)**.
 
 ### 📈 GitHub Stats  
 
-<p>
-  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-
-  <img align="left" alt="Most Used Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alinesors&show_icons=true&count_private=true&hide_border=true&title_color=e4c1f9&icon_color=fcf6bd&text_color=c9d1d9&bg_color=0d1117" alt="aline sors GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinesors&layout=compact&hide_border=true&title_color=e4c1f9&text_color=fcf6bd&bg_color=0d1117" />
+</div>
